@@ -1,7 +1,7 @@
 {
-	"name": "Hastebin Plus",
-	"description": "Hastebin Plus is an open-source Pastebin software written in node.js.",
-	"repository": "https://github.com/MarvinMenzerath/HastebinPlus",
+	"name": "ISTDoxBin",
+	"description": "ISTDoxBin is an open-source Pastebin software written in node.js.",
+	"repository": "",
 	"logo": "https://raw.githubusercontent.com/MarvinMenzerath/HastebinPlus/master/static/favicon.png",
 	"keywords": [
 		"node",
